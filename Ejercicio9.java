@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ejercicio9 {
 public static void main(String[] args) {
-    double pesos,monto, IVA = 0.16,e;
+    double pesos,monto, IVA = 0.16;
     Scanner scanner = new Scanner(System.in);
     System.out.println("Programa que determina el monto del IVA sobre una cantidad dada");
     System.out.println("----------------------------------------------------------------");
