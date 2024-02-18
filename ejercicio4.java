@@ -8,7 +8,7 @@ public class ejercicio4 {
         System.out.println("Ingrese el dato radio para calcular el area del circulo ");
         radio = scanner.nextInt();
         area = Math.PI * Math.pow(radio, 2);
-        System.out.println("El area del circulo es de: "+area+" cm²");
+        System.out.println("El area del circulo es de: "+area+"cm²");
         
 
       
