@@ -19,7 +19,7 @@ int num1, num2, resto, R;
         System.out.println("El resultado de esta division: "+num1+" / "+num2+" = "+R);
         System.out.println("y su resto es de: "+resto);
 
-        
+        scanner.close();
     }
 
 }

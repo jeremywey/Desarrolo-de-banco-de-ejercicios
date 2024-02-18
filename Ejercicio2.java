@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 public class Ejercicio2 {
-    public static void main( String sgrs[]){
+    public static void main( String agrs[]){
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("------------------------------------");
