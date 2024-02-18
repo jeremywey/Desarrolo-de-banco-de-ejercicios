@@ -12,6 +12,6 @@ public class Ejercicio3 {
         area = (base * altura) / 2;
              System.out.println("Con los datos proporcionados se puede decir que el area del triangulo es de: " + area);
         
-        
+             scanner.close();
     }
 }

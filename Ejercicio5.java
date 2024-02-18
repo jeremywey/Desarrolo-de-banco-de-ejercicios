@@ -13,6 +13,6 @@ System.out.println("Intrese la diagonal menor");
 diagonal = scanner.nextDouble();
   area = (Diagonal * diagonal) / 2;
   System.out.println("El area del rombo es de: "+area+"cm²");
-
+  scanner.close();
 }
 }

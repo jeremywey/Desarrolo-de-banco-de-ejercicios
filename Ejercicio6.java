@@ -16,6 +16,6 @@ System.out.println("la media de los numeros ingresados es de: "+media);
 
 
 
-
+scanner.close();
 }
 }
