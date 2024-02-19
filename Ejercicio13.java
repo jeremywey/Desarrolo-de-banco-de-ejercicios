@@ -21,7 +21,7 @@ public class Ejercicio13 {
         System.out.println("El ultimo digito de la cantidad ("+num1+") es: "+ ult1);
         System.out.println("El ultimo digito de la cantidad ("+num2+") es: "+ ult2);
         System.out.println("El ultimo digito de la cantidad ("+num3+") es: "+ ult3);
-
+scanner.close();
 
     }
 }
