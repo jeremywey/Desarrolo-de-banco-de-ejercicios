@@ -17,7 +17,8 @@ public class Ejercicio16 {
             
         }else{ 
             System.out.println("Usted aprobo Felicidades");
-        }
 
+        }
+scanner.close();
     }
 }
