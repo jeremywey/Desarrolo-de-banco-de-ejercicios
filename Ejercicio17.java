@@ -14,6 +14,7 @@ public static void main(String[] args) {
 
     }else{
         System.out.println("El numero "+num1+" es mayo que el numero "+num2);
-    }
+ scanner.close();
+   }
 }
 }
