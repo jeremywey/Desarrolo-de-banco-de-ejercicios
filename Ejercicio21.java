@@ -18,6 +18,6 @@ String aux = op1;
 op1 = op2;
 op2 = aux;
 System.out.println("(Primer dato ) = "+op1+" (Segundo dato  ) = "+op2);
-        
+        scanner.close();
     }
 }
