@@ -10,6 +10,8 @@ public class Ejercicio24 {
     cm = pulg * 2.54;
 
     System.out.println("Las pulgadas que digito a centimetros son: "+cm+"cm");
-
+    scanner.close();
+    
     }
+   
 }
